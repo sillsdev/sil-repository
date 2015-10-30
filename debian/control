@@ -1,0 +1,12 @@
+Source: sil-repository
+Section: misc
+Priority: extra
+Maintainer: MarkS <marksvc@gmail.com>
+Build-Depends: debhelper
+Standards-Version: 3.9.5
+Homepage: http://packages.sil.org/
+
+Package: sil-repository
+Architecture: all
+Depends:
+Description: Enables access to the SIL software repository at http://packages.sil.org/.
