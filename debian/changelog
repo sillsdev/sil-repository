@@ -1,3 +1,9 @@
+sil-repository (1.2016) stable; urgency=low
+
+  * Add key.
+
+ -- MarkS <marksvc@gmail.com>  Mon, 05 Dec 2016 12:00:00 -0700
+
 sil-repository (1) stable; urgency=low
 
   * Initial release.
